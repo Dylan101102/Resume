@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.resume-header {
+    list-style: none; /* Removing bullet points */
+}
+
+.resume-header li {
+    margin-bottom: -15px;
+}
