@@ -4,9 +4,29 @@
 }
 
 .resume-header {
-    list-style: none; /* Removing bullet points */
+    list-style: none; /* Remove bullet points */
 }
 
 .resume-header li {
-    margin-bottom: -15px;
+    margin-bottom: -20px;
+}
+
+h2, .degree, .location {
+    margin-bottom: 1px;
+}
+
+.position, .GPA {
+    margin-top: 1px;
+}
+
+.more-skills {
+    margin-top: 1px;
+}
+
+.container {
+    margin-left: 60px;
+}
+
+.dates {
+    margin-right: 120px;
 }
