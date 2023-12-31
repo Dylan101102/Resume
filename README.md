@@ -1,2 +1,2 @@
-# Resume
-My Resume
+# Resumé
+My Resumé created using Flexbox & CSS
