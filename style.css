@@ -17,7 +17,6 @@ body {
 
 .courses {
     flex-wrap: wrap;
-    width: 50% /* To prevent courses from going across entire width */
 }
 
 .more-skills{
@@ -42,6 +41,10 @@ body {
         justify-content: center;
     }
     
+    .courses {
+        width: 50% /* To prevent courses from going across entire width */
+    }
+
     .dates{
         float: right;
         padding-right: 100px;
